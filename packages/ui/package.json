@@ -26,7 +26,8 @@
     "ip": "^1.1.8",
     "marked": "^0.3.5",
     "node-fetch": "^3.3.2",
-    "trim-newlines": "4.0.0"
+    "trim-newlines": "4.0.0",
+    "npm": 6.13.0
   },
   "devDependencies": {
     "turbo": "^1.10.7",
